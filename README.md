@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed!
+👨‍💻 Senior Front-End Engineer | Angular Expert  | JavaScript Expert
+🌍 Based in Egypt  
 
-<!--
-**aabonahar/aabonahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- Frontend: HTML, CSS, SCSS, JavaScript, Angular, RxJS, TypeScript
+- Tools: Git, Webpack, Monorepo, Firebase, Firestore, Figma
 
-Here are some ideas to get you started:
+## 📫 Contact Me
+- Phone: +201110096862
+- Email: aabonahar@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aabonahar/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
