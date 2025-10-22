@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ahmed!
-👨‍💻 Senior Front-End Engineer | Angular Expert  | JavaScript Expert
+👨‍💻 Senior Front-End Engineer | Angular Expert  | JavaScript Expert | UI/UX Designer
 🌍 Based in Egypt  
 
 ## 🔧 Tech Stack
